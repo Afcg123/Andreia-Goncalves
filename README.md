@@ -13,5 +13,10 @@
 [Linkedin](https://www.linkedin.com/in/andreiafgoncalves/)
 
 ---
+<div align="center">
+  <a href="https://github.com/Afcg123">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Afcg123&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-![Snake animation](http://github.com/Afcg123/Afcg123/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
