@@ -1,4 +1,4 @@
-### Hi there, I'm Andreia Gonçalves - aka [Afcg123]:raising_hand:
+### Hi there, I'm Andreia Gonçalves - aka Afcg123 :raising_hand:
 
 ## I'm a bride :bride_with_veil:, student and worker!! :virgo:
 
