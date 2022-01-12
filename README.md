@@ -18,3 +18,5 @@
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afcg123&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Snake animation](http://github.com/Afcg123/Afcg123/blob/output/github-contribution-grid-snake.svg)
