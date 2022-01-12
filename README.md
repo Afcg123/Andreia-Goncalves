@@ -1,6 +1,6 @@
 ### Hi there, I'm Andreia Gonçalves - aka [Afcg123]:raising_hand:
 
-## I'm a bride :bride_with_veil:, student and worker!!
+## I'm a bride :bride_with_veil:, student and worker!! :virgo:
 
 - :star2: At the moment I'm trying to change areas to Human Resources in IT!
 - :pray: I am attending TechAnters training at Damia Recruitment Academia
