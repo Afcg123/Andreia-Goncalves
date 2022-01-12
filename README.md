@@ -4,7 +4,7 @@
 
 - :star2: At the moment I'm trying to change areas to Human Resources in IT!
 - :pray: I am attending TechAnters training at Damia Recruitment Academia
-- :computer: I work at CGI, as a backoffice
+- :computer: I work at CGI, in backoffice
 - 🥅 2022 Goals: I expect to start working later this year in the IT area
 - ⚡ hobbies: I love to to walk, watch series and read
 
