@@ -11,6 +11,9 @@
 ## Access to my curriculum vitae
 https://github.com/Afcg123/Afcg123/issues/1
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afcg123&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/928940384598491196/930856181113688064/download20220103153154.png">
 </div>
 
