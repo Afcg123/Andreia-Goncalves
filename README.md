@@ -9,7 +9,7 @@
 - ⚡ hobbies: I love to to walk, watch series and read
 
 ## Access to my curriculum vitae
-https://github.com/Afcg123/Afcg123/issues/1
+https://github.com/Afcg123/CV-online
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afcg123&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
