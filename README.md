@@ -30,3 +30,4 @@ https://github.com/Afcg123/CV-online
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Afcg123&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+  ![Snake animation](https://github.com/Afcg123/Afcg123/blob/output/github-contribution-grid-snake.svg)
